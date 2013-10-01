@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ResourceInjection/ResourceInjection.iml" filepath="$PROJECT_DIR$/ResourceInjection/ResourceInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceInjectionLibrary/ResourceInjectionLibrary.iml" filepath="$PROJECT_DIR$/ResourceInjectionLibrary/ResourceInjectionLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResourceInjectionProject.iml" filepath="$PROJECT_DIR$/ResourceInjectionProject.iml" />
+    </modules>
+  </component>
+</project>
+
